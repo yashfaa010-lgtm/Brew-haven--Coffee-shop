@@ -55,9 +55,8 @@ Brew-Haven/
 │── style.css
 │
 ├── script.js
-│
-└── assets/
-    └── images/
+
+
 ```
 
 ## 🎯 Learning Outcomes
